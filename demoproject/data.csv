@@ -1,0 +1,685 @@
+country_name,link
+USA,country/us/
+India,country/india/
+Brazil,country/brazil/
+France,country/france/
+Germany,country/germany/
+UK,country/uk/
+Russia,country/russia/
+S. Korea,country/south-korea/
+Italy,country/italy/
+Turkey,country/turkey/
+Spain,country/spain/
+Vietnam,country/viet-nam/
+Argentina,country/argentina/
+Japan,country/japan/
+Netherlands,country/netherlands/
+Australia,country/australia/
+Iran,country/iran/
+Colombia,country/colombia/
+Indonesia,country/indonesia/
+Poland,country/poland/
+Mexico,country/mexico/
+Ukraine,country/ukraine/
+Malaysia,country/malaysia/
+Thailand,country/thailand/
+Austria,country/austria/
+Belgium,country/belgium/
+Israel,country/israel/
+Portugal,country/portugal/
+South Africa,country/south-africa/
+Czechia,country/czech-republic/
+DPRK,country/north-korea/
+Canada,country/canada/
+Chile,country/chile/
+Philippines,country/philippines/
+Switzerland,country/switzerland/
+Peru,country/peru/
+Greece,country/greece/
+Denmark,country/denmark/
+Romania,country/romania/
+Sweden,country/sweden/
+Iraq,country/iraq/
+Taiwan,country/taiwan/
+Serbia,country/serbia/
+Bangladesh,country/bangladesh/
+Hungary,country/hungary/
+Slovakia,country/slovakia/
+Jordan,country/jordan/
+Georgia,country/georgia/
+Ireland,country/ireland/
+Pakistan,country/pakistan/
+Norway,country/norway/
+Singapore,country/singapore/
+Kazakhstan,country/kazakhstan/
+Hong Kong,country/china-hong-kong-sar/
+New Zealand,country/new-zealand/
+Morocco,country/morocco/
+Bulgaria,country/bulgaria/
+Croatia,country/croatia/
+Cuba,country/cuba/
+Finland,country/finland/
+Lebanon,country/lebanon/
+Lithuania,country/lithuania/
+Tunisia,country/tunisia/
+Slovenia,country/slovenia/
+Belarus,country/belarus/
+Nepal,country/nepal/
+Uruguay,country/uruguay/
+Bolivia,country/bolivia/
+UAE,country/united-arab-emirates/
+Costa Rica,country/costa-rica/
+Ecuador,country/ecuador/
+Panama,country/panama/
+Guatemala,country/guatemala/
+Latvia,country/latvia/
+Azerbaijan,country/azerbaijan/
+Saudi Arabia,country/saudi-arabia/
+Sri Lanka,country/sri-lanka/
+Paraguay,country/paraguay/
+Kuwait,country/kuwait/
+Myanmar,country/myanmar/
+Bahrain,country/bahrain/
+Dominican Republic,country/dominican-republic/
+Palestine,country/state-of-palestine/
+Estonia,country/estonia/
+Venezuela,country/venezuela/
+Moldova,country/moldova/
+Egypt,country/egypt/
+Libya,country/libya/
+Cyprus,country/cyprus/
+Ethiopia,country/ethiopia/
+Mongolia,country/mongolia/
+Honduras,country/honduras/
+Armenia,country/armenia/
+Réunion,country/reunion/
+Oman,country/oman/
+Bosnia and Herzegovina,country/bosnia-and-herzegovina/
+Qatar,country/qatar/
+Kenya,country/kenya/
+Zambia,country/zambia/
+North Macedonia,country/macedonia/
+Botswana,country/botswana/
+Albania,country/albania/
+Algeria,country/algeria/
+Nigeria,country/nigeria/
+Zimbabwe,country/zimbabwe/
+Luxembourg,country/luxembourg/
+Uzbekistan,country/uzbekistan/
+Montenegro,country/montenegro/
+Mozambique,country/mozambique/
+Laos,country/laos/
+Kyrgyzstan,country/kyrgyzstan/
+Iceland,country/iceland/
+Afghanistan,country/afghanistan/
+Maldives,country/maldives/
+Martinique,country/martinique/
+Namibia,country/namibia/
+Uganda,country/uganda/
+El Salvador,country/el-salvador/
+Trinidad and Tobago,country/trinidad-and-tobago/
+Ghana,country/ghana/
+Brunei ,country/brunei-darussalam/
+Guadeloupe,country/guadeloupe/
+Jamaica,country/jamaica/
+Cambodia,country/cambodia/
+Rwanda,country/rwanda/
+Cameroon,country/cameroon/
+Angola,country/angola/
+Malta,country/malta/
+DRC,country/democratic-republic-of-the-congo/
+Senegal,country/senegal/
+Malawi,country/malawi/
+French Guiana,country/french-guiana/
+Ivory Coast,country/cote-d-ivoire/
+Barbados,country/barbados/
+Suriname,country/suriname/
+Channel Islands,country/channel-islands/
+French Polynesia,country/french-polynesia/
+Eswatini,country/swaziland/
+Guyana,country/guyana/
+Fiji,country/fiji/
+Madagascar,country/madagascar/
+Sudan,country/sudan/
+New Caledonia,country/new-caledonia/
+Belize,country/belize/
+Bhutan,country/bhutan/
+Mauritania,country/mauritania/
+Cabo Verde,country/cabo-verde/
+Syria,country/syria/
+Gabon,country/gabon/
+Papua New Guinea,country/papua-new-guinea/
+Seychelles,country/seychelles/
+Curaçao,country/curacao/
+Andorra,country/andorra/
+Burundi,country/burundi/
+Mauritius,country/mauritius/
+Mayotte,country/mayotte/
+Togo,country/togo/
+Aruba,country/aruba/
+Guinea,country/guinea/
+Tanzania,country/tanzania/
+Bahamas,country/bahamas/
+Faeroe Islands,country/faeroe-islands/
+Lesotho,country/lesotho/
+Mali,country/mali/
+Haiti,country/haiti/
+Isle of Man,country/isle-of-man/
+Benin,country/benin/
+Somalia,country/somalia/
+Saint Lucia,country/saint-lucia/
+Cayman Islands,country/cayman-islands/
+Congo,country/congo/
+Timor-Leste,country/timor-leste/
+Burkina Faso,country/burkina-faso/
+Gibraltar,country/gibraltar/
+Nicaragua,country/nicaragua/
+Solomon Islands,country/solomon-islands/
+Grenada,country/grenada/
+South Sudan,country/south-sudan/
+Liechtenstein,country/liechtenstein/
+Tajikistan,country/tajikistan/
+San Marino,country/san-marino/
+Equatorial Guinea,country/equatorial-guinea/
+Djibouti,country/djibouti/
+Bermuda,country/bermuda/
+CAR,country/central-african-republic/
+Dominica,country/dominica/
+Samoa,country/samoa/
+Monaco,country/monaco/
+Gambia,country/gambia/
+Greenland,country/greenland/
+Yemen,country/yemen/
+Tonga,country/tonga/
+Saint Martin,country/saint-martin/
+Sint Maarten,country/sint-maarten/
+Caribbean Netherlands,country/caribbean-netherlands/
+Eritrea,country/eritrea/
+Vanuatu,country/vanuatu/
+Niger,country/niger/
+Antigua and Barbuda,country/antigua-and-barbuda/
+Guinea-Bissau,country/guinea-bissau/
+Comoros,country/comoros/
+Sierra Leone,country/sierra-leone/
+Liberia,country/liberia/
+Chad,country/chad/
+St. Vincent Grenadines,country/saint-vincent-and-the-grenadines/
+British Virgin Islands,country/british-virgin-islands/
+Turks and Caicos,country/turks-and-caicos-islands/
+Sao Tome and Principe,country/sao-tome-and-principe/
+Saint Kitts and Nevis,country/saint-kitts-and-nevis/
+Cook Islands,country/cook-islands/
+Palau,country/palau/
+St. Barth,country/saint-barthelemy/
+Anguilla,country/anguilla/
+Kiribati,country/kiribati/
+Saint Pierre Miquelon,country/saint-pierre-and-miquelon/
+Falkland Islands,country/falkland-islands-malvinas/
+Montserrat,country/montserrat/
+Wallis and Futuna,country/wallis-and-futuna-islands/
+Macao,country/china-macao-sar/
+Micronesia,country/micronesia/
+Vatican City,country/holy-see/
+Marshall Islands,country/marshall-islands/
+Western Sahara,country/western-sahara/
+Niue,country/niue/
+Nauru,country/nauru/
+Tuvalu,country/tuvalu/
+Saint Helena,country/saint-helena/
+China,country/china/
+China,country/china/
+USA,country/us/
+India,country/india/
+Brazil,country/brazil/
+France,country/france/
+Germany,country/germany/
+UK,country/uk/
+Russia,country/russia/
+S. Korea,country/south-korea/
+Italy,country/italy/
+Turkey,country/turkey/
+Spain,country/spain/
+Vietnam,country/viet-nam/
+Argentina,country/argentina/
+Japan,country/japan/
+Netherlands,country/netherlands/
+Australia,country/australia/
+Iran,country/iran/
+Colombia,country/colombia/
+Indonesia,country/indonesia/
+Poland,country/poland/
+Mexico,country/mexico/
+Ukraine,country/ukraine/
+Malaysia,country/malaysia/
+Thailand,country/thailand/
+Austria,country/austria/
+Belgium,country/belgium/
+Israel,country/israel/
+Portugal,country/portugal/
+South Africa,country/south-africa/
+Czechia,country/czech-republic/
+Canada,country/canada/
+DPRK,country/north-korea/
+Chile,country/chile/
+Philippines,country/philippines/
+Switzerland,country/switzerland/
+Peru,country/peru/
+Greece,country/greece/
+Denmark,country/denmark/
+Romania,country/romania/
+Sweden,country/sweden/
+Iraq,country/iraq/
+Taiwan,country/taiwan/
+Serbia,country/serbia/
+Bangladesh,country/bangladesh/
+Hungary,country/hungary/
+Slovakia,country/slovakia/
+Jordan,country/jordan/
+Georgia,country/georgia/
+Ireland,country/ireland/
+Pakistan,country/pakistan/
+Norway,country/norway/
+Singapore,country/singapore/
+Kazakhstan,country/kazakhstan/
+Hong Kong,country/china-hong-kong-sar/
+New Zealand,country/new-zealand/
+Morocco,country/morocco/
+Bulgaria,country/bulgaria/
+Croatia,country/croatia/
+Cuba,country/cuba/
+Finland,country/finland/
+Lebanon,country/lebanon/
+Lithuania,country/lithuania/
+Tunisia,country/tunisia/
+Slovenia,country/slovenia/
+Belarus,country/belarus/
+Nepal,country/nepal/
+Uruguay,country/uruguay/
+Bolivia,country/bolivia/
+UAE,country/united-arab-emirates/
+Costa Rica,country/costa-rica/
+Ecuador,country/ecuador/
+Panama,country/panama/
+Guatemala,country/guatemala/
+Latvia,country/latvia/
+Azerbaijan,country/azerbaijan/
+Saudi Arabia,country/saudi-arabia/
+Sri Lanka,country/sri-lanka/
+Paraguay,country/paraguay/
+Kuwait,country/kuwait/
+Myanmar,country/myanmar/
+Bahrain,country/bahrain/
+Dominican Republic,country/dominican-republic/
+Palestine,country/state-of-palestine/
+Estonia,country/estonia/
+Venezuela,country/venezuela/
+Moldova,country/moldova/
+Egypt,country/egypt/
+Libya,country/libya/
+Cyprus,country/cyprus/
+Ethiopia,country/ethiopia/
+Mongolia,country/mongolia/
+Honduras,country/honduras/
+Armenia,country/armenia/
+Réunion,country/reunion/
+Oman,country/oman/
+Bosnia and Herzegovina,country/bosnia-and-herzegovina/
+Qatar,country/qatar/
+Kenya,country/kenya/
+Zambia,country/zambia/
+North Macedonia,country/macedonia/
+Botswana,country/botswana/
+Albania,country/albania/
+Algeria,country/algeria/
+Nigeria,country/nigeria/
+Zimbabwe,country/zimbabwe/
+Luxembourg,country/luxembourg/
+Uzbekistan,country/uzbekistan/
+Montenegro,country/montenegro/
+Mozambique,country/mozambique/
+Laos,country/laos/
+Kyrgyzstan,country/kyrgyzstan/
+Iceland,country/iceland/
+Afghanistan,country/afghanistan/
+Maldives,country/maldives/
+Martinique,country/martinique/
+Namibia,country/namibia/
+Uganda,country/uganda/
+El Salvador,country/el-salvador/
+Trinidad and Tobago,country/trinidad-and-tobago/
+Ghana,country/ghana/
+Brunei ,country/brunei-darussalam/
+Guadeloupe,country/guadeloupe/
+Jamaica,country/jamaica/
+Cambodia,country/cambodia/
+Rwanda,country/rwanda/
+Cameroon,country/cameroon/
+Angola,country/angola/
+Malta,country/malta/
+DRC,country/democratic-republic-of-the-congo/
+Senegal,country/senegal/
+Malawi,country/malawi/
+French Guiana,country/french-guiana/
+Ivory Coast,country/cote-d-ivoire/
+Barbados,country/barbados/
+Suriname,country/suriname/
+Channel Islands,country/channel-islands/
+French Polynesia,country/french-polynesia/
+Eswatini,country/swaziland/
+Guyana,country/guyana/
+Fiji,country/fiji/
+Madagascar,country/madagascar/
+Sudan,country/sudan/
+New Caledonia,country/new-caledonia/
+Belize,country/belize/
+Bhutan,country/bhutan/
+Mauritania,country/mauritania/
+Cabo Verde,country/cabo-verde/
+Syria,country/syria/
+Gabon,country/gabon/
+Papua New Guinea,country/papua-new-guinea/
+Seychelles,country/seychelles/
+Curaçao,country/curacao/
+Andorra,country/andorra/
+Burundi,country/burundi/
+Mauritius,country/mauritius/
+Mayotte,country/mayotte/
+Togo,country/togo/
+Aruba,country/aruba/
+Guinea,country/guinea/
+Tanzania,country/tanzania/
+Bahamas,country/bahamas/
+Faeroe Islands,country/faeroe-islands/
+Lesotho,country/lesotho/
+Mali,country/mali/
+Haiti,country/haiti/
+Isle of Man,country/isle-of-man/
+Benin,country/benin/
+Somalia,country/somalia/
+Saint Lucia,country/saint-lucia/
+Cayman Islands,country/cayman-islands/
+Congo,country/congo/
+Timor-Leste,country/timor-leste/
+Burkina Faso,country/burkina-faso/
+Gibraltar,country/gibraltar/
+Nicaragua,country/nicaragua/
+Solomon Islands,country/solomon-islands/
+Grenada,country/grenada/
+South Sudan,country/south-sudan/
+Liechtenstein,country/liechtenstein/
+Tajikistan,country/tajikistan/
+San Marino,country/san-marino/
+Equatorial Guinea,country/equatorial-guinea/
+Djibouti,country/djibouti/
+Bermuda,country/bermuda/
+CAR,country/central-african-republic/
+Dominica,country/dominica/
+Samoa,country/samoa/
+Monaco,country/monaco/
+Gambia,country/gambia/
+Greenland,country/greenland/
+Yemen,country/yemen/
+Tonga,country/tonga/
+Saint Martin,country/saint-martin/
+Sint Maarten,country/sint-maarten/
+Caribbean Netherlands,country/caribbean-netherlands/
+Eritrea,country/eritrea/
+Vanuatu,country/vanuatu/
+Niger,country/niger/
+Antigua and Barbuda,country/antigua-and-barbuda/
+Guinea-Bissau,country/guinea-bissau/
+Comoros,country/comoros/
+Sierra Leone,country/sierra-leone/
+Liberia,country/liberia/
+Chad,country/chad/
+St. Vincent Grenadines,country/saint-vincent-and-the-grenadines/
+British Virgin Islands,country/british-virgin-islands/
+Turks and Caicos,country/turks-and-caicos-islands/
+Sao Tome and Principe,country/sao-tome-and-principe/
+Saint Kitts and Nevis,country/saint-kitts-and-nevis/
+Cook Islands,country/cook-islands/
+Palau,country/palau/
+St. Barth,country/saint-barthelemy/
+Anguilla,country/anguilla/
+Kiribati,country/kiribati/
+Saint Pierre Miquelon,country/saint-pierre-and-miquelon/
+Falkland Islands,country/falkland-islands-malvinas/
+Montserrat,country/montserrat/
+Wallis and Futuna,country/wallis-and-futuna-islands/
+Macao,country/china-macao-sar/
+Micronesia,country/micronesia/
+Vatican City,country/holy-see/
+Marshall Islands,country/marshall-islands/
+Western Sahara,country/western-sahara/
+Niue,country/niue/
+Nauru,country/nauru/
+Tuvalu,country/tuvalu/
+Saint Helena,country/saint-helena/
+China,country/china/
+USA,country/us/
+India,country/india/
+Brazil,country/brazil/
+France,country/france/
+Germany,country/germany/
+UK,country/uk/
+Russia,country/russia/
+S. Korea,country/south-korea/
+Italy,country/italy/
+Turkey,country/turkey/
+Spain,country/spain/
+Vietnam,country/viet-nam/
+Argentina,country/argentina/
+Japan,country/japan/
+Netherlands,country/netherlands/
+Australia,country/australia/
+Iran,country/iran/
+Colombia,country/colombia/
+Indonesia,country/indonesia/
+Poland,country/poland/
+Mexico,country/mexico/
+Ukraine,country/ukraine/
+Malaysia,country/malaysia/
+Thailand,country/thailand/
+Austria,country/austria/
+Belgium,country/belgium/
+Israel,country/israel/
+Portugal,country/portugal/
+South Africa,country/south-africa/
+Czechia,country/czech-republic/
+Canada,country/canada/
+DPRK,country/north-korea/
+Chile,country/chile/
+Philippines,country/philippines/
+Switzerland,country/switzerland/
+Peru,country/peru/
+Greece,country/greece/
+Denmark,country/denmark/
+Romania,country/romania/
+Sweden,country/sweden/
+Iraq,country/iraq/
+Taiwan,country/taiwan/
+Serbia,country/serbia/
+Bangladesh,country/bangladesh/
+Hungary,country/hungary/
+Slovakia,country/slovakia/
+Jordan,country/jordan/
+Georgia,country/georgia/
+Ireland,country/ireland/
+Pakistan,country/pakistan/
+Norway,country/norway/
+Singapore,country/singapore/
+Kazakhstan,country/kazakhstan/
+Hong Kong,country/china-hong-kong-sar/
+New Zealand,country/new-zealand/
+Morocco,country/morocco/
+Bulgaria,country/bulgaria/
+Croatia,country/croatia/
+Cuba,country/cuba/
+Lebanon,country/lebanon/
+Finland,country/finland/
+Lithuania,country/lithuania/
+Tunisia,country/tunisia/
+Slovenia,country/slovenia/
+Belarus,country/belarus/
+Nepal,country/nepal/
+Uruguay,country/uruguay/
+Bolivia,country/bolivia/
+UAE,country/united-arab-emirates/
+Costa Rica,country/costa-rica/
+Ecuador,country/ecuador/
+Guatemala,country/guatemala/
+Panama,country/panama/
+Latvia,country/latvia/
+Azerbaijan,country/azerbaijan/
+Saudi Arabia,country/saudi-arabia/
+Sri Lanka,country/sri-lanka/
+Paraguay,country/paraguay/
+Kuwait,country/kuwait/
+Myanmar,country/myanmar/
+Bahrain,country/bahrain/
+Dominican Republic,country/dominican-republic/
+Palestine,country/state-of-palestine/
+Estonia,country/estonia/
+Venezuela,country/venezuela/
+Moldova,country/moldova/
+Egypt,country/egypt/
+Libya,country/libya/
+Cyprus,country/cyprus/
+Ethiopia,country/ethiopia/
+Mongolia,country/mongolia/
+Honduras,country/honduras/
+Armenia,country/armenia/
+Réunion,country/reunion/
+Oman,country/oman/
+Bosnia and Herzegovina,country/bosnia-and-herzegovina/
+Qatar,country/qatar/
+Kenya,country/kenya/
+Zambia,country/zambia/
+North Macedonia,country/macedonia/
+Botswana,country/botswana/
+Albania,country/albania/
+Algeria,country/algeria/
+Nigeria,country/nigeria/
+Zimbabwe,country/zimbabwe/
+Luxembourg,country/luxembourg/
+Uzbekistan,country/uzbekistan/
+Montenegro,country/montenegro/
+Mozambique,country/mozambique/
+Laos,country/laos/
+Kyrgyzstan,country/kyrgyzstan/
+Iceland,country/iceland/
+Afghanistan,country/afghanistan/
+Maldives,country/maldives/
+Martinique,country/martinique/
+Namibia,country/namibia/
+Uganda,country/uganda/
+El Salvador,country/el-salvador/
+Trinidad and Tobago,country/trinidad-and-tobago/
+Ghana,country/ghana/
+Brunei ,country/brunei-darussalam/
+Guadeloupe,country/guadeloupe/
+Jamaica,country/jamaica/
+Cambodia,country/cambodia/
+Rwanda,country/rwanda/
+Cameroon,country/cameroon/
+Angola,country/angola/
+Malta,country/malta/
+DRC,country/democratic-republic-of-the-congo/
+Senegal,country/senegal/
+Malawi,country/malawi/
+French Guiana,country/french-guiana/
+Ivory Coast,country/cote-d-ivoire/
+Barbados,country/barbados/
+Suriname,country/suriname/
+Channel Islands,country/channel-islands/
+French Polynesia,country/french-polynesia/
+Eswatini,country/swaziland/
+Fiji,country/fiji/
+Guyana,country/guyana/
+Madagascar,country/madagascar/
+Sudan,country/sudan/
+New Caledonia,country/new-caledonia/
+Bhutan,country/bhutan/
+Belize,country/belize/
+Mauritania,country/mauritania/
+Cabo Verde,country/cabo-verde/
+Syria,country/syria/
+Gabon,country/gabon/
+Papua New Guinea,country/papua-new-guinea/
+Seychelles,country/seychelles/
+Curaçao,country/curacao/
+Andorra,country/andorra/
+Burundi,country/burundi/
+Mauritius,country/mauritius/
+Mayotte,country/mayotte/
+Togo,country/togo/
+Aruba,country/aruba/
+Guinea,country/guinea/
+Tanzania,country/tanzania/
+Bahamas,country/bahamas/
+Faeroe Islands,country/faeroe-islands/
+Lesotho,country/lesotho/
+Mali,country/mali/
+Haiti,country/haiti/
+Isle of Man,country/isle-of-man/
+Benin,country/benin/
+Somalia,country/somalia/
+Saint Lucia,country/saint-lucia/
+Cayman Islands,country/cayman-islands/
+Congo,country/congo/
+Timor-Leste,country/timor-leste/
+Burkina Faso,country/burkina-faso/
+Nicaragua,country/nicaragua/
+Gibraltar,country/gibraltar/
+Solomon Islands,country/solomon-islands/
+Grenada,country/grenada/
+South Sudan,country/south-sudan/
+Liechtenstein,country/liechtenstein/
+Tajikistan,country/tajikistan/
+San Marino,country/san-marino/
+Equatorial Guinea,country/equatorial-guinea/
+Djibouti,country/djibouti/
+Bermuda,country/bermuda/
+CAR,country/central-african-republic/
+Dominica,country/dominica/
+Samoa,country/samoa/
+Monaco,country/monaco/
+Gambia,country/gambia/
+Greenland,country/greenland/
+Yemen,country/yemen/
+Tonga,country/tonga/
+Saint Martin,country/saint-martin/
+Sint Maarten,country/sint-maarten/
+Caribbean Netherlands,country/caribbean-netherlands/
+Eritrea,country/eritrea/
+Vanuatu,country/vanuatu/
+Niger,country/niger/
+Guinea-Bissau,country/guinea-bissau/
+Antigua and Barbuda,country/antigua-and-barbuda/
+Comoros,country/comoros/
+Sierra Leone,country/sierra-leone/
+Liberia,country/liberia/
+Chad,country/chad/
+St. Vincent Grenadines,country/saint-vincent-and-the-grenadines/
+British Virgin Islands,country/british-virgin-islands/
+Turks and Caicos,country/turks-and-caicos-islands/
+Sao Tome and Principe,country/sao-tome-and-principe/
+Saint Kitts and Nevis,country/saint-kitts-and-nevis/
+Cook Islands,country/cook-islands/
+Palau,country/palau/
+St. Barth,country/saint-barthelemy/
+Anguilla,country/anguilla/
+Kiribati,country/kiribati/
+Saint Pierre Miquelon,country/saint-pierre-and-miquelon/
+Falkland Islands,country/falkland-islands-malvinas/
+Montserrat,country/montserrat/
+Wallis and Futuna,country/wallis-and-futuna-islands/
+Macao,country/china-macao-sar/
+Micronesia,country/micronesia/
+Vatican City,country/holy-see/
+Marshall Islands,country/marshall-islands/
+Western Sahara,country/western-sahara/
+Niue,country/niue/
+Nauru,country/nauru/
+Tuvalu,country/tuvalu/
+Saint Helena,country/saint-helena/
